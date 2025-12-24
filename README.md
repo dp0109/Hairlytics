@@ -25,7 +25,10 @@ Hairlytics is an web application that combines machine learning, NLP, and a mode
 * Smart Product Recommendations: Ranking algorithm scores products based on a composite user profile
 
 ---
+### GUI
+<img width="1897" height="990" alt="Screenshot 2025-12-24 183421" src="https://github.com/user-attachments/assets/cc4b3e53-5185-4908-ba94-6d32925bd27c" />
 
+---
 ### Modern & Secure Architecture
 
 * JWT Authentication with Bcrypt password encryption
