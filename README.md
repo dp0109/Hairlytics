@@ -144,27 +144,6 @@ npm run dev
 
 ---
 
-## Project Structure
-
-```
-HAPR-NLP/
-├── backend/
-│   ├── models/            # MongoDB Schemas (User, Product)
-│   ├── routes/            # Express Routes (Auth, Chatbot, Products)
-│   ├── model_service.py   # Python Flask ML Service
-│   └── server.js          # Node Entry Point
-│
-└── frontend/
-    ├── src/
-    │   ├── components/    # UI Components
-    │   ├── context/       # Global State (Auth, Theme)
-    │   ├── pages/         # Pages (Home, Chatbot, Login)
-    │   └── assets/        # Images & Icons
-    └── index.css          # Tailwind v4 Configuration
-```
-
----
-
 ## Contributing
 
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
