@@ -1,11 +1,11 @@
-# Hairlytics – Intelligent Hair Analysis & AI Consultant
-Hairlytics is an AI-powered web application that combines machine learning, NLP, and a modern healthcare-inspired interface to provide personalized hair-care insights and product recommendations.
+# Hairlytics – Intelligent Hair Analysis
+Hairlytics is an web application that combines machine learning, NLP, and a modern healthcare-inspired interface to provide personalized hair-care insights and product recommendations.
 
 ---
 
 ## Key Features
 
-### Advanced AI Chatbot — Dr. HairBot
+### Chatbot — Dr. HairBot
 
 * Context-Aware: Remembers scalp type, hair texture, and concerns throughout the conversation
 * Stateful Memory: Avoids repetitive questions by intelligently filling missing details
@@ -137,7 +137,7 @@ npm run dev
 
 ## Usage Guide
 
-* Start interaction using the Floating Chatbot (bottom-right) or AI Assistant page
+* Start interaction using the Floating Chatbot (bottom-right) 
 * Sign Up / Login to save your analysis profile
 * Analyze hair data via the Dashboard (`/analysis`)
 * Explore UI pages like Reviews and Contact
