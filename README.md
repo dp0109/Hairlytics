@@ -83,8 +83,9 @@ Hairlytics is an AI-powered web application that combines machine learning, NLP,
 ```bash
 git clone <repository-url>
 cd HAPR-NLP
-2. Backend Setup (Node.js)
-bash
+
+### 2. Backend Setup (Node.js)
+```bash
 Copy code
 cd backend
 npm install
@@ -123,10 +124,8 @@ Sign Up / Login to save your analysis profile
 Analyze hair data via the Dashboard (/analysis)
 
 Explore UI pages like Reviews and Contact
-
-Project Structure
-bash
-Copy code
+---
+## Project Structure
 HAPR-NLP/
 ├── backend/
 │   ├── models/            # MongoDB Schemas (User, Product)
@@ -141,14 +140,15 @@ HAPR-NLP/
     │   ├── pages/         # Pages (Home, Chatbot, Login)
     │   └── assets/        # Images & Icons
     └── index.css          # Tailwind v4 Configuration
-Contributing
+
+---
+##Contributing
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
-
-License
+---
+## License
 This project is licensed under the MIT License.
-
-Acknowledgements
+---
+## Acknowledgements
 Inspiration for this project came from the need for efficient task management tools.
 
-yaml
-Copy code
+
